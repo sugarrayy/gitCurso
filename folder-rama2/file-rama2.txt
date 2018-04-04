@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 file-rama2.txt
 
 mmod1
 mod2
+=======
+file-rama2.txt
+>>>>>>> parent of 4b6f040... mod 1

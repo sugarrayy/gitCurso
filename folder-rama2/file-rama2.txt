@@ -1,8 +1,8 @@
-<<<<<<< HEAD
 file-rama2.txt
 
 <<<<<<< HEAD
 mmod1
+<<<<<<< HEAD
 mod2
 =======
 file-rama2.txt
@@ -10,3 +10,6 @@ file-rama2.txt
 =======
 mmod1
 >>>>>>> parent of 784cf52... mod2
+=======
+mod2
+>>>>>>> parent of 6faae0b... Revert "mod 1"
